@@ -1,5 +1,5 @@
 {
-    "name": "diablomedia/zendframework1-wildfire",
+    "name": "donkeyworks/zendframework1-wildfire",
     "description": "Zend Framework 1 Wildfire component",
     "type": "library",
     "keywords": [
@@ -12,10 +12,10 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.0.0",
-        "diablomedia/zendframework1-exception": "^1.0.0",
-        "diablomedia/zendframework1-json": "^1.0.0",
-        "diablomedia/zendframework1-loader": "^1.0.0",
-        "diablomedia/zendframework1-controller": "^1.0.0"
+        "donkeyworks/zendframework1-exception": "^1.0.0",
+        "donkeyworks/zendframework1-json": "^1.0.0",
+        "donkeyworks/zendframework1-loader": "^1.0.0",
+        "donkeyworks/zendframework1-controller": "^1.0.0"
     },
     "autoload": {
         "psr-0": {
